@@ -40,7 +40,7 @@ SetTextColor 255 255 225
 SetBorderColor 255 255 225
 SetFontSize 40
 PlayAlertSound 12 300
-MinimapIcon 2 Whitw Cross
+MinimapIcon 2 White Cross
 PlayEffect Cross
 
 
@@ -79,12 +79,14 @@ StackSize >= 500
 BaseType == "Gold"
 SetTextColor 255 255 255
 SetBorderColor 255 255 255
+SetFontSize 40
 PlayEffect Orange Temp
 
 Show
 BaseType == "Gold"
 SetTextColor 180 180 180
 SetBorderColor 0 0 0 255
+SetFontSize 40
 SetBackgroundColor 0 0 0 180
 
 #--------------------------
@@ -144,6 +146,7 @@ PlayEffect Cyan Temp
 Show 
 BaseType " Rune" " Charm"
 SetTextColor 0 240 190
+SetFontSize 40
 PlayEffect Cyan Temp
 
 #--------------------------
@@ -183,6 +186,7 @@ SetBackgroundColor 76 51 12
 PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 1 White Circle
+SetFontSize 40
 
 # Currency Tier C: Vaal, Chaos, Exalt, Exotic
 Show
@@ -191,6 +195,7 @@ BaseType "Arcanist's Etcher" "Armourer's Scrap" "Blacksmith's Whetstone" "Orb of
 SetTextColor 255 207 132
 SetBorderColor 255 207 132
 MinimapIcon 2 Grey Circle
+SetFontSize 40
 
 Show
 Class "Currency"
@@ -198,6 +203,7 @@ BaseType "Simulacrum Splinter" "Breach Splinter" " Artifact"
 SetTextColor 255 207 132
 SetBorderColor 255 207 132
 MinimapIcon 2 Grey Circle
+SetFontSize 40
 
 Show
 Class "Currency"
