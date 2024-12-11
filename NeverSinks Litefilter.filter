@@ -20,7 +20,7 @@ SetBorderColor 255 255 0
 SetFontSize 40
 PlayAlertSound 12 300
 MinimapIcon 2 Yellow Cross
-PlayEffect Cross
+PlayEffect Yellow
 
 
 Show
@@ -31,7 +31,7 @@ SetBorderColor 65 105 225
 SetFontSize 40
 PlayAlertSound 12 300
 MinimapIcon 2 Blue Cross
-PlayEffect Cross
+PlayEffect Blue
 
 Show
 Class "Crossbows"
@@ -41,7 +41,7 @@ SetBorderColor 255 255 225
 SetFontSize 40
 PlayAlertSound 12 300
 MinimapIcon 2 White Cross
-PlayEffect Cross
+PlayEffect White
 
 
 #--------------------------
