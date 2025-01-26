@@ -13,7 +13,7 @@
 # PATREON: https://www.patreon.com/Neversink
 
 Show
-BaseType "Staff" "Focus" "Wand" "Gloves" "Sandals" "Slippers" "Raiment" "Robe" "Tiara" "Circlet"
+BaseType " Club" " Mace" " Hammer" " Warpick" "Greathelm" "Mitts" "Greaves" "Plate" "Cuirass" "Shield"
 Rarity Rare
 SetTextColor 255 255 0
 SetBorderColor 255 255 0
@@ -24,7 +24,7 @@ PlayEffect Yellow
 
 
 Show
-BaseType "Staff" "Focus" "Wand" "Gloves" "Sandals" "Slippers" "Raiment" "Robe" "Tiara" "Circlet"
+BaseType " Club" " Mace" " Hammer" " Warpick" "Greathelm" "Mitts" "Greaves" "Plate" "Cuirass" "Shield"
 Rarity Magic
 SetTextColor 65 105 225
 SetBorderColor 65 105 225
@@ -34,7 +34,7 @@ MinimapIcon 2 Blue Cross
 PlayEffect Blue
 
 Show
-BaseType "Staff" "Focus" "Wand" "Gloves" "Sandals" "Slippers" "Raiment" "Robe" "Tiara" "Circlet"
+BaseType " Club" " Mace" " Hammer" " Warpick" "Greathelm" "Mitts" "Greaves" "Plate" "Cuirass" "Shield"
 Rarity Normal
 SetTextColor 255 255 225
 SetBorderColor 255 255 225
